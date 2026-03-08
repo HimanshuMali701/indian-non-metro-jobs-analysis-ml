@@ -27,12 +27,14 @@ Data Analysis	Pandas, NumPy
 Visualization	Matplotlib, Seaborn
 Machine Learning	Scikit-learn
 Notebook	Jupyter Lab/Notebook
+```
 📂 Project Structure
+
 ├── indian_non_metro_jobs_dataset.csv                    
 ├── Machine learning on indian_non_metro_jobs_dataset.ipynb              
 ├── model.pkl                 
 └── README.md             
-
+```
 📊 Exploratory Data Analysis Highlights
 
 Top demanded skills across roles
