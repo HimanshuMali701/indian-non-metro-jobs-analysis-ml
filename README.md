@@ -32,7 +32,9 @@ Notebook	Jupyter Lab/Notebook
 
 ├── indian_non_metro_jobs_dataset.csv                    
 ├── Machine learning on indian_non_metro_jobs_dataset.ipynb              
-├── model.pkl                 
+├── model.pkl
+├── plots/correlation_heatmap.png                 
+├── requirements.txt                          
 └── README.md             
 ```
 📊 Exploratory Data Analysis Highlights
